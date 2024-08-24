@@ -26,6 +26,5 @@ This project demonstrates the potential of machine learning in predicting custom
 
 ## How to Use
 To run the project locally:
-1. Clone the repository: `git clone https://github.com/yourusername/yourrepositoryname.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Open the Jupyter Notebook: `jupyter notebook Customer-Churn-Prediction.ipynb`
+1. Clone the repository: `git clone https://github.com/sanasabir/Customer-Churn-Prediction.git`
+2. Open the Jupyter Notebook: `jupyter notebook Customer-Churn-Prediction.ipynb`
